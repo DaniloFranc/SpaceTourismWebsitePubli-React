@@ -1,0 +1,612 @@
+@media (min-width: 769px) {
+ 
+    body{
+
+        background-image: url('img/background-technology-desktop.jpg');
+        background-size: cover;        
+        
+    }
+    
+    .header{
+        display: flex;
+        margin-top: 40px;
+        height: 80px;
+        margin-left: 50px;
+        
+    }
+    
+    .caixaCabeca{
+    
+        margin-left: 150px;
+        display: flex;
+        width: 1100px;
+        height: 96px;
+        top: 40px;
+        left: 55px;
+        color: #FFFFFF;  
+        
+    }
+    
+    .imagem{
+    
+        width: 40px;
+        height: 40px;
+        margin-top: 20px;
+        margin-right: 50px;
+        
+    }
+    
+    .linhaPersonalizada {
+    
+        background-color: rgb(151, 151, 151);
+        border: none;
+        height: 0.08px;
+        width: 100%;    
+        margin-top: 40px;
+    
+    }
+    
+    .linhaPersonalizada2{
+        
+        background-color: rgb(151, 151, 151);
+        border: none;
+        height: 0.05px;
+        width: 100%;    
+        margin-top: 11px;
+        margin-right: 110px;
+        
+    }
+    
+    
+    
+    .caixaBlur{
+        
+        display: flex;
+        background-color: rgba(255, 255, 255, 0.05);
+        backdrop-filter: blur(30px);
+        font-size: 20px;
+        color: #FFFFFF;
+        align-items: center;  
+        width: 2700px;
+        height: 80px;
+        border: none;    
+         
+    }
+    
+    .alinhamentoTopo{
+    
+        display: flex;
+        margin-top: 40px;
+        font-family: 'Barlow Condensed1' , sans-serif;
+    
+    }
+    
+    .numeral0{
+        
+        letter-spacing: 2px;
+        display: flex;
+        margin-top: 6.7px;
+        margin-right: 5px;
+        font-size: 17px;
+        font-family: 'Barlow Condensed1' , sans-serif;
+        
+    }
+    
+    .letra0{
+    
+        letter-spacing: 2px;
+        display: flex;
+        margin-right: 50px;
+        margin-top: 6.7px;
+        margin-left: 5px;
+        font-size: 17px;
+        font-family: 'Barlow Condensed2' , sans-serif;    
+    
+    }
+    
+    .numeral1{
+        display: flex;
+        font-family: 'Barlow Condensed1' , sans-serif;
+    }
+    
+    .numeral2{
+        display: flex;
+        font-family: 'Barlow Condensed1' , sans-serif;
+    }
+    
+    .numeral3{
+        display: flex;
+        font-family: 'Barlow Condensed1' , sans-serif;
+    }
+    
+    .letra1{
+    
+        display: flex;
+        margin-right: 50px;
+        margin-left: 10px;
+        font-family: 'Barlow Condensed2' , sans-serif;
+    
+    }
+    
+    .letra2{
+    
+        margin-right: 50px;
+        margin-left: 10px;
+        font-family: 'Barlow Condensed2' , sans-serif;
+    
+    }
+    
+    .letra3{
+    
+        display: flex;
+        margin-right: 5px;
+        margin-left: 10px;
+        font-family: 'Barlow Condensed2' , sans-serif;
+    
+    }
+    
+    .alinhamento{
+        
+        cursor: pointer;
+        display: flex;
+    
+    }
+    .alin{
+    
+        margin-left: 4px ;
+        margin-top: 20px;
+    }
+    
+    
+    .alin4{
+    
+        margin-left: 4px ;
+        margin-top: 20px;
+        margin-right: 170px;
+     
+    }
+    
+    .barra{
+        
+        background-color: #FFFFFF;    
+        height:2px;
+        width: 57%;
+        margin-top: 30px;
+        visibility: hidden;
+    
+    }
+    
+    .barra1{
+    
+        background-color: #FFFFFF;    
+        height:2px;
+        width: 70%;
+        margin-top: 30px;
+        visibility: hidden;
+    
+    }
+    
+    .visibilidade{
+    
+        visibility: visible ;
+        opacity: 0.5;
+    
+    }
+
+    .visibilidade1{
+    
+        visibility: visible ;
+    
+    }
+    
+    .espaco{
+    
+        color: transparent;
+    
+    }
+    
+    .alinhar{
+    
+        display: flex;
+        margin-top: 200px;
+        justify-content: space-evenly;
+        /* margin-top: 400px; */
+    
+    }
+    
+    .textoCor{
+    
+        color: #FFFFFF;
+        margin-right: 150px; 
+        margin-left: -80px;   
+        
+    }
+    
+    .texto11{
+    
+        color: #D0D6F9;
+        font-family:'Barlow Condensed2' , sans-serif ;
+        font-size: 28px;
+        margin-bottom: 20px;
+        letter-spacing: 4.72px;
+    
+    }
+    
+    .texto2{
+    
+        font-family: 'Bellefair', sans-serif;
+        font-size: 145px;
+    
+    }
+    
+    .texto3{
+    
+        font-size: 17px;
+        margin-top: 20px;
+        margin-bottom: 7px;
+        color: #D0D6F9;
+        font-family: 'Barlow', sans-serif;
+    
+    }
+    
+    .texto4{
+    
+        font-size: 17px;
+        margin-bottom: 7px;
+        color: #D0D6F9;
+        font-family: 'Barlow', sans-serif;
+    
+    }
+    
+    .texto5{
+    
+        font-size: 17px;
+        margin-bottom: 7px;
+        color: #D0D6F9;
+        font-family: 'Barlow', sans-serif;
+    
+    }
+    
+    .texto6{
+    
+        font-size: 17px;
+        color: #D0D6F9;
+        font-family: 'Barlow', sans-serif;
+    
+    }
+    
+    
+
+    .caixaPrincipalTech{
+        display: flex;
+    }
+    
+    .caixaTituloTech{
+        display: flex;
+        margin-top: -30px;
+        margin-bottom: 50px;
+    }
+
+    .espacoTech{
+        width: 1%;
+    }
+
+    .caixaSecTech{
+        display: flex;
+    }
+
+    .ordemBotoes{
+        display: flex;
+        flex-direction: column;
+    }
+    .espacoImagem{
+        width: 10%;
+    }
+    .numeroTech{
+
+        font-family: 'Barlow Condensed1' , sans-serif;
+        color: rgba(255, 255, 255, 0.5);
+        letter-spacing: 4.725px;
+        margin-right: 20px;
+        font-size: 30px;
+
+
+    }
+    .tituloTech{
+
+        color: #FFFFFF;
+        font-family: 'Barlow Condensed2' , sans-serif;
+        font-size: 30px;  
+        letter-spacing: 4.725px;
+    }
+
+    .espacoTechBotao{
+        width: 10%;
+    }
+
+    .text1Tech{
+        color: #FFFFFF;
+        font-family: 'Bellefair' , sans-serif;
+        font-size: 50px;
+        letter-spacing: 2px;
+        width: 130%;
+        margin-bottom: 20px;
+    }
+
+    .caixaTextTech{
+        margin-top: 50px;
+    }
+
+    .text0Tech{
+        font-family: 'Barlow Condensed2' , sans-serif;
+        font-size: 15px;
+        letter-spacing: 2.7px;
+        line-height: 27px;
+        color: #D0D6F9; 
+        margin-bottom: 10px;
+        
+    }
+
+    .textTech{
+        color: #D0D6F9;
+        font-family: 'Barlow' , sans-serif;
+        font-size: 15px;
+        letter-spacing: 1px;
+        line-height: 27px;
+        width: 150%;
+    }
+
+    .alinhamentoTech{
+        margin-left: 100px;
+        margin-top: 100;
+        padding: 100px;
+        width: 500px;
+
+    }
+
+    .imagemTech{
+        margin-top: 100px;
+    }
+
+    .botaoTech {
+
+        cursor: pointer;
+        margin-top: 30px;
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        font-size: 30px;
+        font-family: 'Bellefair', sans-serif;
+        border: 0.1px solid white;
+    
+    }
+
+    /* .botaoTech1{
+
+        cursor: pointer;
+        margin-top: 55px;
+        margin-right: 20px; 
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        font-size: 30px;
+        font-family:'Bellefair', sans-serif;;
+        border: 0.1px solid white; 
+           
+    } */
+
+    .corBotao{
+
+        background-color: transparent;        
+        color: #FFFFFF;
+        
+    }
+
+    .ajustePriBotaoTech{
+
+        margin-top: 55px;
+        margin-right: 20px; 
+
+    }
+
+    
+    
+
+
+
+}
+
+
+@media (max-width: 768px) {
+   
+
+    body{
+
+        background-image: url('img/background-home-mobile.jpg');
+        background-size: cover;
+        
+        
+    }
+    
+    .body1{
+    
+        background-image: url('img/background-home-mobile.jpg');
+        background-size: cover;
+        
+    }
+    
+    .body2{
+        background-image: url('img/background-destination-mobile.jpg') ;
+        background-size: cover;
+        
+    }
+    
+    .header{
+        display: flex;
+        color: #FFFFFF;
+    }
+   
+    .caixaBlur{
+        background-color: rgba(255, 255, 255, 0.05);
+        display: flex;
+        
+    }
+    .alinhamento{
+        display: flex;
+        margin-top: 6vw;
+        margin-left: 3vw;
+        font-size:2vw;
+        letter-spacing: 0.2vw;
+       
+    }
+    
+    .numeral0{
+        
+        display: flex;
+       
+        visibility: hidden;
+        font-family: 'Barlow Condensed1', sans-serif;
+      }
+      
+      .letra0 {
+       
+        display: flex;
+        color: #FFFFFF;
+        font-family: 'Barlow Condensed2', sans-serif;
+      }
+
+      .linhaPersonalizada{
+        visibility: hidden;
+      }
+      .linhaPersonalizada2{
+        visibility: hidden;
+      }
+
+      .barra{
+        visibility: hidden;
+        background-color: #FFFFFF;
+        width: 5vw;
+        height: 0.3vh;
+        margin-top: 5.5vw;
+        margin-left: 5vw;
+
+      }
+      .alin{
+        display: flex;
+        flex-direction: column;
+      }
+
+      .alin4{
+        margin-right: 5vw;
+      }
+      
+      .imagem{
+        width: 7vw;
+        height: 7vw;
+        margin-top: 3vw;
+        margin-left: 2vw;
+      }
+
+      .barra1{
+        visibility: visible;
+        background-color: #FFFFFF;
+        width: 11vw;
+        height: 0.3vh;
+        margin-top: 5.5vw;
+        margin-left: 5vw;
+        visibility: hidden;
+      }
+      .texto1{
+
+        color: #D0D6F9;
+        font-family: 'Barlow Condensed2', sans-serif;
+        letter-spacing: 0.338vw;
+        
+        margin-left: 7vw;
+        margin-bottom: 2.5vw;
+        
+
+      }
+
+      .texto2{
+        color: #FFFFFF;
+        font-family: 'Bellefair', sans-serif;
+        font-size: 23vw;
+        margin-left: -4vw;
+      }
+      .texto3{
+        color: #D0D6F9;
+        font-size: 2.5vw;
+        font-family: 'Barllow', sans-serif;
+        line-height: 5vw ;
+        
+      }
+
+      .texto4{
+        color: #D0D6F9;
+        font-size: 2.5vw;
+        font-family: 'Barllow', sans-serif;
+        margin-left: -3.5vw;
+        line-height: 5vw ;
+        
+      }
+
+      .texto4{
+        color: #D0D6F9;
+        font-size: 2.5vw;
+        font-family: 'Barllow', sans-serif;
+        line-height: 5vw ;
+      }
+      .texto5{
+        color: #D0D6F9;
+        font-size: 2.5vw;
+        font-family: 'Barllow', sans-serif;
+        line-height: 5vw ;
+        margin-left: -3.5vw;
+      }
+      .texto6{
+        color: #D0D6F9;
+        font-size: 2.5vw;
+        font-family: 'Barllow', sans-serif;
+      
+        margin-left: 20vw;
+        line-height: 5vw ;
+      }
+
+      .botao{
+
+        cursor: pointer;
+        margin-top: 30vw;
+        margin-left: 30vw;
+        width: 35vw;
+        height: 35vw;
+        border-radius: 50%;
+        font-size: 5vw;
+        font-family:'Bellefair', sans-serif;;
+        border: 0.5px solid transparent;
+        letter-spacing: 0.200vw;
+
+        box-shadow: 0vw 0vw 0vw rgba(255, 255, 255, 0.1);
+
+  
+        transition: box-shadow 0.3s ease-in-out;
+
+      }
+
+
+    .botao:hover {
+
+        box-shadow: 0vw 0vw 0vw 10vw rgba(255, 255, 255, 0.1);
+
+    }
+
+      .textoCor{
+       margin-top: 30vw;
+       margin-left: 18vw;
+      }
+
+    
+
+}
+
+

@@ -1,0 +1,199 @@
+
+@media (min-width: 769px) {
+
+
+    .alinha{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+
+    }
+
+    .tituloDest{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .al{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .alin3{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .num {
+        font-family: 'Barlow Condensed1' , sans-serif;
+        letter-spacing: 4.72px;
+    
+    }
+
+    .linha {
+        
+        color: #FFFFFF;
+        font-size: 30px;
+        font-family: 'Barlow Condensed2' , sans-serif;
+        margin-top: 3vw;
+    }
+
+    .letr {
+        margin-left: 10px;
+        letter-spacing: 4.72px;
+    }
+
+
+    .imagem0 {
+        width: 80%;
+        margin-left: 80px;
+        margin-top: 80px;
+    }
+
+    .alin2 {
+        flex-direction: column;
+        margin-left: 100px;
+        margin-top: -20px;
+    }
+
+    .al {
+        display: flex;
+        margin-top: 140px;
+        cursor: pointer;
+        color: #FFFFFF;
+    }
+
+    .text0 {
+        font-family: 'Bellefair' , sans-serif;
+        margin-top: 35px;
+        margin-bottom: 20px;
+        color: #FFFFFF;
+        font-size: 100px;
+    }
+
+    .text1 {
+        margin-bottom: 10px;
+        font-family: 'Barlow', sans-serif;
+        font-size: 18px;
+        color: #D0D6F9;
+    }
+
+    .text2 {
+        margin-bottom: 10px;
+        font-family: 'Barlow', sans-serif;
+        font-size: 18px;
+        color: #D0D6F9;
+    }
+
+    .text3 {
+        margin-bottom: 10px;
+        font-family: 'Barlow', sans-serif;
+        font-size: 18px;
+        color: #D0D6F9;
+    }
+
+    .text4 {
+        font-family: 'Barlow', sans-serif;
+        font-size: 18px;
+        color: #D0D6F9;
+    }
+
+    .linhaPersonalizada {
+        background-color: rgb(151, 151, 151);
+        border: none;
+        height: 0.08px;
+        width: 100%;
+        margin-top: 40px;
+    }
+
+
+    .alin3 {
+        display: flex;
+    }
+
+    .letra0 {
+        letter-spacing: 2px;
+        display: flex;
+        margin-right: 50px;
+        margin-top: 6.7px;
+        margin-left: 5px;
+        font-size: 17px;
+        font-family: 'Barlow Condensed2' , sans-serif;
+    }
+
+    .subBarra0 {
+        background-color: #FFFFFF;
+        height: 2px;
+        width: 40%;
+        margin-left: 5px;
+        margin-top: 10px;
+        visibility: hidden;
+    }
+
+    .letra0 {
+        letter-spacing: 2px;
+        display: flex;
+        margin-right: 50px;
+        margin-top: 6.7px;
+        margin-left: 5px;
+        font-size: 17px;
+        font-family: 'Barlow Condensed2' , sans-serif;
+    }
+
+    .subBarra1 {
+        background-color: #FFFFFF;
+        height: 2px;
+        width: 37%;
+        margin-left: 6px;
+        margin-top: 10px;
+        visibility: hidden;
+    }
+
+    .subBarra2 {
+        background-color: #FFFFFF;
+        height: 2px;
+        width: 48%;
+        margin-left: 6px;
+        margin-top: 10px;
+        visibility: hidden;
+    }
+
+    .subBarra3 {
+        background-color: #FFFFFF;
+        height: 2px;
+        width: 40%;
+        margin-left: 6px;
+        margin-top: 10px;
+        visibility: hidden;
+    }
+
+    .text5 {
+        font-family: 'Barlow Condensed2' , sans-serif;
+        font-size: 14px;
+        color: #D0D6F9;
+        margin-bottom: 10px;
+        margin-top: 15px;
+        letter-spacing: 2.36px;
+    }
+
+    .numDist0 {
+        font-family: 'Bellefair' , sans-serif;
+        font-size: 28px;
+        color: #FFFFFF;
+    }
+    
+    .espaco1 {
+        width: 50px;
+        color: transparent;
+    }
+
+    .alignment {
+        display: flex;
+        justify-content: center;
+        color: #FFFFFF;
+        opacity: 1;
+        animation: fadeIn 1s linear;
+    }
+    /*fazer tudo de novo*/
+
+}
