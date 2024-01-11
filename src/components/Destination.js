@@ -3,6 +3,7 @@ import Mars from '../img/image-mars.png';
 import styles from "../components/modules/Destination.module.css";
 import InitialDestinationImage from '../img/image-moon.png';
 import Europa from '../img/image-europa.png'
+import Titan from '../img/image-titan.png'
 
 export default class Destination extends Component {
   constructor(props) {
@@ -197,7 +198,7 @@ export default class Destination extends Component {
         animation: "fadeIn 2s linear",
       },
       selectedDestination: {
-        image: Europa,
+        image: Titan,
         destination: "TITAN",
         travel: '7 YEARS',
         dist: '1.6 BIL. KM',
