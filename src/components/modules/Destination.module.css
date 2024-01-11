@@ -188,12 +188,41 @@
     }
 
     .alignment {
+
         display: flex;
         justify-content: center;
         color: #FFFFFF;
         opacity: 1;
         animation: fadeIn 1s linear;
+        
     }
     /*fazer tudo de novo*/
+    
+    /* .visibilidade{
+    
+        visibility: "visible"
+    
+    } */
+
+    /* .alignment{
+    
+        display: flex;
+        color: #FFFFFF;
+        opacity: 1;
+        animation: fadeIn 1s linear;
+        
+    } */
+    
+    .animacao{
+    
+        opacity: 1;
+        animation: fadeIn 2s linear;
+    
+    }
+    
+    @keyframes fadeIn{
+        from {opacity: 0}
+        to {opacity: 1}
+    }
 
 }
