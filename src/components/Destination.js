@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import Mars from '../img/image-mars.png';
 import styles from "../components/modules/Destination.module.css";
 import InitialDestinationImage from '../img/image-moon.png';
+import Mars from '../img/image-mars.png';
 import Europa from '../img/image-europa.png'
 import Titan from '../img/image-titan.png'
 

@@ -8,7 +8,7 @@ import Home from "./Home";
 import Destination from "../components/Destination";
 import styles from "../components/modules/Home.module.css"
 import Crew from "../components/Crew";
-// import Technology from "../components/Technology";
+import Technology from "../components/Technology";
 
 export default class Header extends Component {
   constructor(props) {
@@ -45,8 +45,8 @@ export default class Header extends Component {
         return <Destination />;
       case "Crew":
         return <Crew />;
-    //   case "Technology":
-    //     return <Technology />;
+      case "Technology":
+        return <Technology />;
       default:
         return null;
     }

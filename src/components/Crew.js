@@ -143,6 +143,7 @@ export default function Crew() {
     const button0 = document.getElementById("botao0");
     const button1 = document.getElementById("botao1");
     const button2 = document.getElementById("botao2");
+    const button3 = document.getElementById("botao3");
 
     button0.classList.remove(styles.botaoCrew);
     button0.classList.add(styles.botaoCrewClick);
@@ -152,6 +153,9 @@ export default function Crew() {
 
     button2.classList.remove(styles.botaoCrewClick);
     button2.classList.add(styles.botaoCrew);
+
+    button3.classList.remove(styles.botaoCrewClick);
+    button3.classList.add(styles.botaoCrew);
 
 
     setSelectedCrew(initialCrewState);
